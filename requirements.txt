@@ -1,0 +1,16 @@
+numpy==1.11.1
+scipy==0.18.0
+pandas==0.18.1
+six==1.10.0
+boto==2.42.0
+boto3==1.4.0
+cython==0.24.1
+flask==0.11.1
+flask-httpauth==3.2.0
+mlocs==1.0.5
+peewee==2.8.3
+pre-commit==0.8.2
+psycopg2==2.6.2
+pytest==3.0.1
+pyyaml==3.11
+uwsgi==2.0.13.1
